@@ -364,10 +364,16 @@ even[evencount]=arr[i];
 evencount++;
 }
 }
-printf("\n Elements of even array:
+printf("\n Elements of even array:\n");
+printArray(even,evencount);
+printf("\n Elements of odd array:\n");
+printArray(odd,oddcount);
+return(0);
+}
+void printArray(int arr[],int len)
 
 
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1ODk1Nzc2LC03NTY5NzcwMDldfQ==
+eyJoaXN0b3J5IjpbMTY3MDU1NTk5LC03NTY5NzcwMDldfQ==
 -->
