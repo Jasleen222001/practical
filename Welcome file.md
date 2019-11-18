@@ -556,11 +556,15 @@ float salary;
 int main()
 {
 struct employee emp;
-printf                              
+printf("\n Enter details:");
+printf("Name:");
+gets(emp.name);
+printf("id");
+scanf("%d",&emp.emp                              
                                                                                                                                 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzIzOTA4MCwtMTA0NjUyMjE2MywtMj
-A1MTU3NjA1NCwxMzY2MDQ4OTQ0LC0yMTQ2NjkyOTMyLDEzMTI1
-NTI1NjMsLTE4Nzk1NzE4MjEsLTEwNzE2NjU1NjQsLTc1Njk3Nz
-AwOV19
+eyJoaXN0b3J5IjpbLTEyNjU4NjA1MjYsLTEwNDY1MjIxNjMsLT
+IwNTE1NzYwNTQsMTM2NjA0ODk0NCwtMjE0NjY5MjkzMiwxMzEy
+NTUyNTYzLC0xODc5NTcxODIxLC0xMDcxNjY1NTY0LC03NTY5Nz
+cwMDldfQ==
 -->
