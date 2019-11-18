@@ -385,9 +385,16 @@ Output
 ```
 ![enter image description here](https://lh3.googleusercontent.com/5IfExPsfBqpAAlA5Xfwb_6kMCuY_M7nBqUsRFyLqpjvQ19GEuH4NTLcnKac5nC_MqQohy7-wlnU0 "ii")
 
-
+ program 14
+                            to choose operator
+ ```c
+ #include<stdio.h>
+ int main()
+ {
+ int a,b; char i;
+                            
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MjUxMTU0LC0xMDcxNjY1NTY0LC03NT
-Y5NzcwMDldfQ==
+eyJoaXN0b3J5IjpbLTQ1MDE0MTc2NywtMTA3MTY2NTU2NCwtNz
+U2OTc3MDA5XX0=
 -->
