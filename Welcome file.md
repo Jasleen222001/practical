@@ -442,8 +442,11 @@ output
 ```
 ![enter image description here](https://lh3.googleusercontent.com/mvkGiOcpf0sKCmPk3efEgJPWjF9T32rxv3yzhQ16GrCCqEk7FLhXwwUIL2YLYmU2N0z40bsso9uQ "jj")                                              
                
-                                                                                                                     
+  program 16
+                            to reverse a number
+   ```c
+   #incl                                                                                                                                            
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQxODgyNDEsMTMxMjU1MjU2MywtMT
-g3OTU3MTgyMSwtMTA3MTY2NTU2NCwtNzU2OTc3MDA5XX0=
+eyJoaXN0b3J5IjpbODI5OTc1NDY1LDEzMTI1NTI1NjMsLTE4Nz
+k1NzE4MjEsLTEwNzE2NjU1NjQsLTc1Njk3NzAwOV19
 -->
