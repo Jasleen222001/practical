@@ -437,9 +437,13 @@ a=b-a;
 printf("\n after swapping value of a:%d",a);
 printf("\n after swapping value of b:%d",b);
 return(0);
-}```                                              
+}```
+output
+```
+![enter image description here](https://lh3.googleusercontent.com/mvkGiOcpf0sKCmPk3efEgJPWjF9T32rxv3yzhQ16GrCCqEk7FLhXwwUIL2YLYmU2N0z40bsso9uQ "jj")                                              
+               
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjU1MjU2MywtMTg3OTU3MTgyMSwtMT
-A3MTY2NTU2NCwtNzU2OTc3MDA5XX0=
+eyJoaXN0b3J5IjpbLTE4MjQxODgyNDEsMTMxMjU1MjU2MywtMT
+g3OTU3MTgyMSwtMTA3MTY2NTU2NCwtNzU2OTc3MDA5XX0=
 -->
