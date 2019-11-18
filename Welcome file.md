@@ -474,10 +474,19 @@ output
  int i;
  int greatest;
  printf("Enter ten values:");
- for                          
+ for(i=0;i<10;i++)
+ {
+ scanf("%d",&a[i]);
+ }
+ greatest=a[0];
+ for(i=0;i<10;i++)
+ {
+ if(a[i]>greatest)
+ {
+ greatest=a[i]                          
                                                                                                                               
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU0NTI5MTUsMTM2NjA0ODk0NCwtMj
-E0NjY5MjkzMiwxMzEyNTUyNTYzLC0xODc5NTcxODIxLC0xMDcx
-NjY1NTY0LC03NTY5NzcwMDldfQ==
+eyJoaXN0b3J5IjpbOTQ4ODY5MTYxLDEzNjYwNDg5NDQsLTIxND
+Y2OTI5MzIsMTMxMjU1MjU2MywtMTg3OTU3MTgyMSwtMTA3MTY2
+NTU2NCwtNzU2OTc3MDA5XX0=
 -->
