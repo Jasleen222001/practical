@@ -335,10 +335,18 @@ program 13
 ```c
 #include<stdio.h>
 #define MAX_SIZE 1000
-void printArray(int arr
+void printArray(int arr[],int len);
+int main()
+{
+int arr[MAX-SIZE];
+int even[MAX-SIZE],odd[MAX-SIZE];
+int evencount, oddcount;
+int i,size;
+printf("Enter size of the array:");
+sc
 
 
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Mzc4MDExLC03NTY5NzcwMDldfQ==
+eyJoaXN0b3J5IjpbMTYwOTE0MTE4NSwtNzU2OTc3MDA5XX0=
 -->
