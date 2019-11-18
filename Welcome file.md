@@ -418,9 +418,18 @@ Output
  return(0);
  }```
  output
-                           
+
+
+program 15
+                    to reverse numbers
+```c
+#include<stdio.h>
+int main()
+{
+int a,b;
+printf("\n enter val                                              
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk1NzE4MjEsLTEwNzE2NjU1NjQsLT
-c1Njk3NzAwOV19
+eyJoaXN0b3J5IjpbLTU4NTU0MTA0MiwtMTg3OTU3MTgyMSwtMT
+A3MTY2NTU2NCwtNzU2OTc3MDA5XX0=
 -->
