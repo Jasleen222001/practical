@@ -565,10 +565,14 @@ printf("salary:");
 scanf("%f,&emp.salary);
 
 printf("\n Entered details is:");
-printf("                              
+printf("Name:%s", emp.name);
+printf("id:%d", emp.empid);
+printf("salary:%f\n",emp.salary);
+return(0);
+}``                              
                                                                                                                                 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzkwNDYwNywtMTA0NjUyMjE2MywtMj
+eyJoaXN0b3J5IjpbMTE3MDQ1NTE3OCwtMTA0NjUyMjE2MywtMj
 A1MTU3NjA1NCwxMzY2MDQ4OTQ0LC0yMTQ2NjkyOTMyLDEzMTI1
 NTI1NjMsLTE4Nzk1NzE4MjEsLTEwNzE2NjU1NjQsLTc1Njk3Nz
 AwOV19
