@@ -445,8 +445,14 @@ output
   program 16
                             to reverse a number
    ```c
-   #incl                                                                                                                                            
+   #include<stdio.h>
+   int main()
+   {
+   int n, reversednumber=0,remainder;
+   printf("Enter an integer:");
+   scanf("%d",&n);
+   while(n!                                                                                                                                            
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5OTc1NDY1LDEzMTI1NTI1NjMsLTE4Nz
-k1NzE4MjEsLTEwNzE2NjU1NjQsLTc1Njk3NzAwOV19
+eyJoaXN0b3J5IjpbMTk3OTQzMjc2MywxMzEyNTUyNTYzLC0xOD
+c5NTcxODIxLC0xMDcxNjY1NTY0LC03NTY5NzcwMDldfQ==
 -->
