@@ -546,12 +546,21 @@ output
 program 20
                              total experience
 #include<stdio.h>
+struct employee
+{
+char name[30];
+int empid;
+float salary;
+};
+
 int main()
 {
-int                              
+struct employee emp;
+printf                              
                                                                                                                                 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDY1MjIxNjMsLTIwNTE1NzYwNTQsMT
-M2NjA0ODk0NCwtMjE0NjY5MjkzMiwxMzEyNTUyNTYzLC0xODc5
-NTcxODIxLC0xMDcxNjY1NTY0LC03NTY5NzcwMDldfQ==
+eyJoaXN0b3J5IjpbMTMzMzIzOTA4MCwtMTA0NjUyMjE2MywtMj
+A1MTU3NjA1NCwxMzY2MDQ4OTQ0LC0yMTQ2NjkyOTMyLDEzMTI1
+NTI1NjMsLTE4Nzk1NzE4MjEsLTEwNzE2NjU1NjQsLTc1Njk3Nz
+AwOV19
 -->
