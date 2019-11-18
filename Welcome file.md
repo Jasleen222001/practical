@@ -528,7 +528,7 @@ output
    int i,j,rows;
    printf("Enter number of rows:");
    scanf("%d",&rows);
-   for(i=1;i<=rows;++i)
+   for(i=rows;i>=1;--i)
    {
    for(j=1;j<=i;++j)
    {
@@ -543,7 +543,7 @@ output
                            
                                                                                                             
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDczNzEzNCwtMjA1MTU3NjA1NCwxMz
+eyJoaXN0b3J5IjpbLTEyMTQxNDI2OCwtMjA1MTU3NjA1NCwxMz
 Y2MDQ4OTQ0LC0yMTQ2NjkyOTMyLDEzMTI1NTI1NjMsLTE4Nzk1
 NzE4MjEsLTEwNzE2NjU1NjQsLTc1Njk3NzAwOV19
 -->
