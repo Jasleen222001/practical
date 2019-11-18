@@ -545,7 +545,7 @@ output
 
 program 20
                              total experience
-```c#include<stdio.h>
+#include<stdio.h>
 struct employee
 {
 char name[30];
@@ -569,11 +569,11 @@ printf("Name:%s", emp.name);
 printf("id:%d", emp.empid);
 printf("salary:%f\n",emp.salary);
 return(0);
-}``                              
-                                                                                                                                
+}                       
+  ``![enter image description here](https://lh3.googleusercontent.com/Ex49-fBEzwZI9g_T9luCEF99QWZDiz33aHliVjlWw3HwtYKiacoiqmX2g2lgdM3JrjvMft9BnlG2 "aa")                                                                                                                              
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjMyMDc4MSwtMTA0NjUyMjE2MywtMj
-A1MTU3NjA1NCwxMzY2MDQ4OTQ0LC0yMTQ2NjkyOTMyLDEzMTI1
-NTI1NjMsLTE4Nzk1NzE4MjEsLTEwNzE2NjU1NjQsLTc1Njk3Nz
-AwOV19
+eyJoaXN0b3J5IjpbMTQzMTMzOTAwMCwxMzI2MzIwNzgxLC0xMD
+Q2NTIyMTYzLC0yMDUxNTc2MDU0LDEzNjYwNDg5NDQsLTIxNDY2
+OTI5MzIsMTMxMjU1MjU2MywtMTg3OTU3MTgyMSwtMTA3MTY2NT
+U2NCwtNzU2OTc3MDA5XX0=
 -->
