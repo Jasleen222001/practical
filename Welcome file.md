@@ -494,11 +494,15 @@ output
 ![enter image description here](https://lh3.googleusercontent.com/HyYaIxDffr2ydyOdJswj1zlSLw6pSiKR3isY83EGAa27ooZg8sgY0PQyipljt2h3ovcYmNqN7mbo "pr")  
 
 program 18
+                           if else program
+   ```c
+   #include                        
 
-
+output
+``![enter image description here](https://lh3.googleusercontent.com/G8ZfsNkX8cQ2NOzT7llZHf41v-QYeL-WS00YpfeG5KCzdwXzWD-ODi_yz92vwjAX70gzyVuDkNU_ "yy")
                                                                                  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE1NzYwNTQsMTM2NjA0ODk0NCwtMj
-E0NjY5MjkzMiwxMzEyNTUyNTYzLC0xODc5NTcxODIxLC0xMDcx
-NjY1NTY0LC03NTY5NzcwMDldfQ==
+eyJoaXN0b3J5IjpbMTEzODIxODg3NSwtMjA1MTU3NjA1NCwxMz
+Y2MDQ4OTQ0LC0yMTQ2NjkyOTMyLDEzMTI1NTI1NjMsLTE4Nzk1
+NzE4MjEsLTEwNzE2NjU1NjQsLTc1Njk3NzAwOV19
 -->
