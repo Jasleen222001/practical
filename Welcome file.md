@@ -404,13 +404,23 @@ Output
  case '-':
  printf("%d",a-b);
  break;
- case '*':
+ case  '*':
  printf("%d"a*b);
  break;
- case '/':
- printf("%d"a/b                          
+ case  '/':
+ printf("%d",a/b);
+ break;
+ case '%':
+ printf("%d",a%b);
+ break;
+ default:
+ printf("Sorry wrong entry");
+ return(0);
+ }```
+ output
+                           
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjIyNTU5OTIsLTEwNzE2NjU1NjQsLT
+eyJoaXN0b3J5IjpbLTE4Nzk1NzE4MjEsLTEwNzE2NjU1NjQsLT
 c1Njk3NzAwOV19
 -->
