@@ -351,10 +351,23 @@ scanf("%d",7arr[i]);
 }
 evencount=0;
 oddcount=0;
-for(i=0;i<size;
+for(i=0;i<size;i++)
+{
+if(arr[i]&1)
+{
+odd[oddcount]=arr[i];
+oddcount++;
+}
+else
+{
+even[evencount]=arr[i];
+evencount++;
+}
+}
+printf("\n Elements of even array:
 
 
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjc3NDg0MywtNzU2OTc3MDA5XX0=
+eyJoaXN0b3J5IjpbNzc1ODk1Nzc2LC03NTY5NzcwMDldfQ==
 -->
