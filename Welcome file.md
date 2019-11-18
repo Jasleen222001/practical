@@ -457,9 +457,11 @@ output
    reversednumber=reversednumber*10+remainder;
    n/=10;
    }
-   printf("Reversed number=%d",re
+   printf("Reversed number=%d",reversednumber');
+   return(0);
+   }``
                                                                                                                                                
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ1NzM1MTQsMTMxMjU1MjU2MywtMT
+eyJoaXN0b3J5IjpbLTIxNDY2OTI5MzIsMTMxMjU1MjU2MywtMT
 g3OTU3MTgyMSwtMTA3MTY2NTU2NCwtNzU2OTc3MDA5XX0=
 -->
