@@ -540,10 +540,18 @@ output
    }``
 
 output
-```
-                                                                                                        
+``
+![enter image description here](https://lh3.googleusercontent.com/OrfVwwgwLxOZPRYEl5fyk2X0MN_ZuonD7ZgER4PDn1Lijbrgw1KS9FEcxZNtNE2M_HzUIFmhM9R2 "vv")     
+
+program 20
+                             total experience
+#include<stdio.h>
+int main()
+{
+int                              
+                                                                                                                                
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg5MjQwOTIsLTIwNTE1NzYwNTQsMT
+eyJoaXN0b3J5IjpbLTEwNDY1MjIxNjMsLTIwNTE1NzYwNTQsMT
 M2NjA0ODk0NCwtMjE0NjY5MjkzMiwxMzEyNTUyNTYzLC0xODc5
 NTcxODIxLC0xMDcxNjY1NTY0LC03NTY5NzcwMDldfQ==
 -->
