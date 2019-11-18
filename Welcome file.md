@@ -392,9 +392,16 @@ Output
  int main()
  {
  int a,b; char i;
-                            
+ printf("Enter value of a and b:");
+ scanf("%d%d", &a ,&b);
+ printf("Enter operator:");
+ scanf("%c", &i);
+ switch(i)
+ {
+ case '+':
+ printf("%d                           
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDE0MTc2NywtMTA3MTY2NTU2NCwtNz
+eyJoaXN0b3J5IjpbMTE0MTQ4NzQ4OSwtMTA3MTY2NTU2NCwtNz
 U2OTc3MDA5XX0=
 -->
