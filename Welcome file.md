@@ -496,7 +496,7 @@ output
 
 program 18
                            if else program
-   ```c
+ ```c
    #include<stdio.h>
    int main()
    {
@@ -517,10 +517,12 @@ program 18
    return(0);
    }``
    output
-``![enter image description here](https://lh3.googleusercontent.com/G8ZfsNkX8cQ2NOzT7llZHf41v-QYeL-WS00YpfeG5KCzdwXzWD-ODi_yz92vwjAX70gzyVuDkNU_ "yy")
+```
+![enter image description here](https://lh3.googleusercontent.com/G8ZfsNkX8cQ2NOzT7llZHf41v-QYeL-WS00YpfeG5KCzdwXzWD-ODi_yz92vwjAX70gzyVuDkNU_ "yy")
             
   program 19 
                               pattern2
+  ```c                          
    #include<stdio.h>
    int main()
    {
@@ -573,7 +575,7 @@ return(0);
   output
 ```![enter image description here](https://lh3.googleusercontent.com/Ex49-fBEzwZI9g_T9luCEF99QWZDiz33aHliVjlWw3HwtYKiacoiqmX2g2lgdM3JrjvMft9BnlG2 "aa")                                                                                                                              
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjMxNjE4NywxMzU3Njg3ODk0LDE0Mz
+eyJoaXN0b3J5IjpbMjA3OTU5MTY1OCwxMzU3Njg3ODk0LDE0Mz
 EzMzkwMDAsMTMyNjMyMDc4MSwtMTA0NjUyMjE2MywtMjA1MTU3
 NjA1NCwxMzY2MDQ4OTQ0LC0yMTQ2NjkyOTMyLDEzMTI1NTI1Nj
 MsLTE4Nzk1NzE4MjEsLTEwNzE2NjU1NjQsLTc1Njk3NzAwOV19
