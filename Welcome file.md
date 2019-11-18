@@ -483,10 +483,17 @@ output
  {
  if(a[i]>greatest)
  {
- greatest=a[i]                          
+ greatest=a[i];
+ }
+ }
+ printf("Greatest of ten numbers is %d",greatest);
+ return(0);
+ }```
+ output
+ ```                          
                                                                                                                               
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4ODY5MTYxLDEzNjYwNDg5NDQsLTIxND
-Y2OTI5MzIsMTMxMjU1MjU2MywtMTg3OTU3MTgyMSwtMTA3MTY2
-NTU2NCwtNzU2OTc3MDA5XX0=
+eyJoaXN0b3J5IjpbMTQxMTcwMjcxMiwxMzY2MDQ4OTQ0LC0yMT
+Q2NjkyOTMyLDEzMTI1NTI1NjMsLTE4Nzk1NzE4MjEsLTEwNzE2
+NjU1NjQsLTc1Njk3NzAwOV19
 -->
