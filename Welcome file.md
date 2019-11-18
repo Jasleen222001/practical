@@ -451,8 +451,15 @@ output
    int n, reversednumber=0,remainder;
    printf("Enter an integer:");
    scanf("%d",&n);
-   while(n!                                                                                                                                            
+   while(n!=0)
+   {
+   remainder=n%10;
+   reversednumber=reversednumber*10+remainder;
+   n/=10;
+   }
+   printf("Reversed number=%d",re
+                                                                                                                                               
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTQzMjc2MywxMzEyNTUyNTYzLC0xOD
-c5NTcxODIxLC0xMDcxNjY1NTY0LC03NTY5NzcwMDldfQ==
+eyJoaXN0b3J5IjpbLTE4MTQ1NzM1MTQsMTMxMjU1MjU2MywtMT
+g3OTU3MTgyMSwtMTA3MTY2NTU2NCwtNzU2OTc3MDA5XX0=
 -->
