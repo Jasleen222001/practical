@@ -459,9 +459,12 @@ output
    }
    printf("Reversed number=%d",reversednumber');
    return(0);
-   }``
-                                                                                                                                               
+   }```
+   ```
+   
+          ![enter image description here](https://lh3.googleusercontent.com/X0LOR0BzaFT26RtBQEbRnJLw-4mkRYBTGlUi2qlUsiQidh2yDv4qTw4BXYXYqeS0hhnbOtGIw1My "jjjj")                                                                                                                                     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDY2OTI5MzIsMTMxMjU1MjU2MywtMT
-g3OTU3MTgyMSwtMTA3MTY2NTU2NCwtNzU2OTc3MDA5XX0=
+eyJoaXN0b3J5IjpbLTEwNzE1ODg0MTksLTIxNDY2OTI5MzIsMT
+MxMjU1MjU2MywtMTg3OTU3MTgyMSwtMTA3MTY2NTU2NCwtNzU2
+OTc3MDA5XX0=
 -->
