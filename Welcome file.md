@@ -464,9 +464,20 @@ output
   ```
 ![enter image description here](https://lh3.googleusercontent.com/oK2KAUdTb2XA3BH32YkWIxxS6l4GI-CV-PQeDqmNwHg2OPwamQohfzpYPmqoWLxfqLvFkZoUD8kS "ww")   
         
-                                                                                                    
+ program 17
+                           greatest among arrays
+ ```c
+ #include<stdio.h>
+ int main()
+ {
+ int a[10];
+ int i;
+ int greatest;
+ printf("Enter ten values:");
+ for                          
+                                                                                                                              
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjA0ODk0NCwtMjE0NjY5MjkzMiwxMz
-EyNTUyNTYzLC0xODc5NTcxODIxLC0xMDcxNjY1NTY0LC03NTY5
-NzcwMDldfQ==
+eyJoaXN0b3J5IjpbLTE3MzU0NTI5MTUsMTM2NjA0ODk0NCwtMj
+E0NjY5MjkzMiwxMzEyNTUyNTYzLC0xODc5NTcxODIxLC0xMDcx
+NjY1NTY0LC03NTY5NzcwMDldfQ==
 -->
