@@ -387,7 +387,7 @@ Output
 
  program 14
                             to choose operator
- ``c
+ ```c
  #include<stdio.h>
  int main()
  {
@@ -416,7 +416,7 @@ Output
  default:
  printf("Sorry wrong entry");
  return(0);
- }`
+ }
  output
 ``![enter image description here](https://lh3.googleusercontent.com/F8lWHWDiop9-_pJH-tXv0XBHlf19pkN-RrOi0SeoH68ORnfGglVl5m0VbfTmBs7CoYgorkz7I0Rz "cc")
 
@@ -459,7 +459,7 @@ output
    }
    printf("Reversed number=%d",reversednumber');
    return(0);
-   }``
+   }
    output
   ```
 ![enter image description here](https://lh3.googleusercontent.com/oK2KAUdTb2XA3BH32YkWIxxS6l4GI-CV-PQeDqmNwHg2OPwamQohfzpYPmqoWLxfqLvFkZoUD8kS "ww")   
@@ -488,14 +488,14 @@ output
  }
  printf("Greatest of ten numbers is %d",greatest);
  return(0);
- }``
+ }
      output
  ```
 ![enter image description here](https://lh3.googleusercontent.com/HyYaIxDffr2ydyOdJswj1zlSLw6pSiKR3isY83EGAa27ooZg8sgY0PQyipljt2h3ovcYmNqN7mbo "pr")  
 
 program 18
                            if else program
-   
+   ```c
    #include<stdio.h>
    int main()
    {
@@ -572,8 +572,8 @@ return(0);
 }                       
   ``![enter image description here](https://lh3.googleusercontent.com/Ex49-fBEzwZI9g_T9luCEF99QWZDiz33aHliVjlWw3HwtYKiacoiqmX2g2lgdM3JrjvMft9BnlG2 "aa")                                                                                                                              
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY1OTEzMDksMTQzMTMzOTAwMCwxMz
-I2MzIwNzgxLC0xMDQ2NTIyMTYzLC0yMDUxNTc2MDU0LDEzNjYw
-NDg5NDQsLTIxNDY2OTI5MzIsMTMxMjU1MjU2MywtMTg3OTU3MT
-gyMSwtMTA3MTY2NTU2NCwtNzU2OTc3MDA5XX0=
+eyJoaXN0b3J5IjpbMTM1NzY4Nzg5NCwxNDMxMzM5MDAwLDEzMj
+YzMjA3ODEsLTEwNDY1MjIxNjMsLTIwNTE1NzYwNTQsMTM2NjA0
+ODk0NCwtMjE0NjY5MjkzMiwxMzEyNTUyNTYzLC0xODc5NTcxOD
+IxLC0xMDcxNjY1NTY0LC03NTY5NzcwMDldfQ==
 -->
