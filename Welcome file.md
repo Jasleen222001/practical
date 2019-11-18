@@ -530,10 +530,20 @@ output
    scanf("%d",&rows);
    for(i=1;i<=rows;++i)
    {
-   for(j                           
+   for(j=1;j<=i;++j)
+   {
+   printf("*");
+   }
+   printf("\n");
+   }
+   return(0);
+   }``
+
+output
+                           
                                                                                                             
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjQwMjczOCwtMjA1MTU3NjA1NCwxMz
-Y2MDQ4OTQ0LC0yMTQ2NjkyOTMyLDEzMTI1NTI1NjMsLTE4Nzk1
-NzE4MjEsLTEwNzE2NjU1NjQsLTc1Njk3NzAwOV19
+eyJoaXN0b3J5IjpbLTExNTkzNTU3MjIsLTIwNTE1NzYwNTQsMT
+M2NjA0ODk0NCwtMjE0NjY5MjkzMiwxMzEyNTUyNTYzLC0xODc5
+NTcxODIxLC0xMDcxNjY1NTY0LC03NTY5NzcwMDldfQ==
 -->
