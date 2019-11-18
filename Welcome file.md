@@ -382,10 +382,12 @@ printf("%d",arr[i]);
 printf("\n");
 }```
 Output
-
+```
+![enter image description here](https://lh3.googleusercontent.com/5IfExPsfBqpAAlA5Xfwb_6kMCuY_M7nBqUsRFyLqpjvQ19GEuH4NTLcnKac5nC_MqQohy7-wlnU0 "ii")
 
 
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE2NjU1NjQsLTc1Njk3NzAwOV19
+eyJoaXN0b3J5IjpbODc3MjUxMTU0LC0xMDcxNjY1NTY0LC03NT
+Y5NzcwMDldfQ==
 -->
