@@ -387,7 +387,7 @@ Output
 
  program 14
                             to choose operator
- ```c
+ 
  #include<stdio.h>
  int main()
  {
@@ -416,9 +416,9 @@ Output
  default:
  printf("Sorry wrong entry");
  return(0);
- }```
+ }
  output
-
+``![enter image description here](https://lh3.googleusercontent.com/F8lWHWDiop9-_pJH-tXv0XBHlf19pkN-RrOi0SeoH68ORnfGglVl5m0VbfTmBs7CoYgorkz7I0Rz "cc")
 
 program 15
                     to reverse numbers
@@ -572,8 +572,8 @@ return(0);
 }                       
   ``![enter image description here](https://lh3.googleusercontent.com/Ex49-fBEzwZI9g_T9luCEF99QWZDiz33aHliVjlWw3HwtYKiacoiqmX2g2lgdM3JrjvMft9BnlG2 "aa")                                                                                                                              
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTMzOTAwMCwxMzI2MzIwNzgxLC0xMD
-Q2NTIyMTYzLC0yMDUxNTc2MDU0LDEzNjYwNDg5NDQsLTIxNDY2
-OTI5MzIsMTMxMjU1MjU2MywtMTg3OTU3MTgyMSwtMTA3MTY2NT
-U2NCwtNzU2OTc3MDA5XX0=
+eyJoaXN0b3J5IjpbNzM3MDMyMDI4LDE0MzEzMzkwMDAsMTMyNj
+MyMDc4MSwtMTA0NjUyMjE2MywtMjA1MTU3NjA1NCwxMzY2MDQ4
+OTQ0LC0yMTQ2NjkyOTMyLDEzMTI1NTI1NjMsLTE4Nzk1NzE4Mj
+EsLTEwNzE2NjU1NjQsLTc1Njk3NzAwOV19
 -->
