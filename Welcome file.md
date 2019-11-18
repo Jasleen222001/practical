@@ -371,9 +371,21 @@ printArray(odd,oddcount);
 return(0);
 }
 void printArray(int arr[],int len)
+{
+int i;
+printf("Elements in the array:");
+for(i=0;i<len;i++)
+
+{
+printf("%d",arr[i]);
+}
+printf("\n");
+}```
+Output
+
 
 
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDU1NTk5LC03NTY5NzcwMDldfQ==
+eyJoaXN0b3J5IjpbLTEwNzE2NjU1NjQsLTc1Njk3NzAwOV19
 -->
