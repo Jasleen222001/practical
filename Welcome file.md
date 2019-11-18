@@ -332,10 +332,13 @@ output
 program 13
                         
                           
-
+```c
+#include<stdio.h>
+#define MAX_SIZE 1000
+void printArray(int arr
 
 
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxNzMyMzIxLC03NTY5NzcwMDldfQ==
+eyJoaXN0b3J5IjpbMTE1Mzc4MDExLC03NTY5NzcwMDldfQ==
 -->
