@@ -343,10 +343,18 @@ int even[MAX-SIZE],odd[MAX-SIZE];
 int evencount, oddcount;
 int i,size;
 printf("Enter size of the array:");
-sc
+scanf("%d",&size);
+printf("Enter elements in the array:");
+for(i=0;i<size;i++)
+{
+scanf("%d",7arr[i]);
+}
+evencount=0;
+oddcount=0;
+for(i=0;i<size;
 
 
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTE0MTE4NSwtNzU2OTc3MDA5XX0=
+eyJoaXN0b3J5IjpbMjAyMjc3NDg0MywtNzU2OTc3MDA5XX0=
 -->
