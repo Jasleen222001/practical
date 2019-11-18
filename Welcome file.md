@@ -434,9 +434,12 @@ scanf("%d",&b);
 a=a-b;
 b=a+b;
 a=b-a;
-printf("\n a                                              
+printf("\n after swapping value of a:%d",a);
+printf("\n after swapping value of b:%d",b);
+return(0);
+}```                                              
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTE5MDI2LC0xODc5NTcxODIxLC0xMD
-cxNjY1NTY0LC03NTY5NzcwMDldfQ==
+eyJoaXN0b3J5IjpbMTMxMjU1MjU2MywtMTg3OTU3MTgyMSwtMT
+A3MTY2NTU2NCwtNzU2OTc3MDA5XX0=
 -->
