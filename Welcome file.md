@@ -399,9 +399,18 @@ Output
  switch(i)
  {
  case '+':
- printf("%d                           
+ printf("%d",a+b);
+ break;
+ case '-':
+ printf("%d",a-b);
+ break;
+ case '*':
+ printf("%d"a*b);
+ break;
+ case '/':
+ printf("%d"a/b                          
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTQ4NzQ4OSwtMTA3MTY2NTU2NCwtNz
-U2OTc3MDA5XX0=
+eyJoaXN0b3J5IjpbLTE3MjIyNTU5OTIsLTEwNzE2NjU1NjQsLT
+c1Njk3NzAwOV19
 -->
