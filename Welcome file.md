@@ -545,6 +545,7 @@ output
 
 program 20
                              total experience
+ ```c                           
 #include<stdio.h>
 struct employee
 {
@@ -569,11 +570,13 @@ printf("Name:%s", emp.name);
 printf("id:%d", emp.empid);
 printf("salary:%f\n",emp.salary);
 return(0);
-}                       
-  ``![enter image description here](https://lh3.googleusercontent.com/Ex49-fBEzwZI9g_T9luCEF99QWZDiz33aHliVjlWw3HwtYKiacoiqmX2g2lgdM3JrjvMft9BnlG2 "aa")                                                                                                                              
+}                      
+  output
+ ```![enter image description here](https://lh3.googleusercontent.com/Ex49-fBEzwZI9g_T9luCEF99QWZDiz33aHliVjlWw3HwtYKiacoiqmX2g2lgdM3JrjvMft9BnlG2 "aa")                                                                                                                              
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzY4Nzg5NCwxNDMxMzM5MDAwLDEzMj
-YzMjA3ODEsLTEwNDY1MjIxNjMsLTIwNTE1NzYwNTQsMTM2NjA0
-ODk0NCwtMjE0NjY5MjkzMiwxMzEyNTUyNTYzLC0xODc5NTcxOD
-IxLC0xMDcxNjY1NTY0LC03NTY5NzcwMDldfQ==
+eyJoaXN0b3J5IjpbLTkzNjc5MDYzMCwxMzU3Njg3ODk0LDE0Mz
+EzMzkwMDAsMTMyNjMyMDc4MSwtMTA0NjUyMjE2MywtMjA1MTU3
+NjA1NCwxMzY2MDQ4OTQ0LC0yMTQ2NjkyOTMyLDEzMTI1NTI1Nj
+MsLTE4Nzk1NzE4MjEsLTEwNzE2NjU1NjQsLTc1Njk3NzAwOV19
+
 -->
