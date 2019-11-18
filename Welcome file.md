@@ -427,9 +427,16 @@ program 15
 int main()
 {
 int a,b;
-printf("\n enter val                                              
+printf("\n enter value of a:");
+scanf("%d",&a);
+printf("\n enter value of b:");
+scanf("%d",&b);
+a=a-b;
+b=a+b;
+a=b-a;
+printf("\n a                                              
                                                                                                                      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTU0MTA0MiwtMTg3OTU3MTgyMSwtMT
-A3MTY2NTU2NCwtNzU2OTc3MDA5XX0=
+eyJoaXN0b3J5IjpbLTkxNTE5MDI2LC0xODc5NTcxODIxLC0xMD
+cxNjY1NTY0LC03NTY5NzcwMDldfQ==
 -->
