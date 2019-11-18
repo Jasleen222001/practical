@@ -510,13 +510,18 @@ program 18
    }
    else
    {
-   printf("none of the v                        
+   printf("none of the value matches\n");
+   }
+   printf("exavt vaue of a is:%d\n",a);
+   return(0);
+   }
+                           
 
 output
 ``![enter image description here](https://lh3.googleusercontent.com/G8ZfsNkX8cQ2NOzT7llZHf41v-QYeL-WS00YpfeG5KCzdwXzWD-ODi_yz92vwjAX70gzyVuDkNU_ "yy")
                                                                                  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxNDU5ODY1LC0yMDUxNTc2MDU0LDEzNj
-YwNDg5NDQsLTIxNDY2OTI5MzIsMTMxMjU1MjU2MywtMTg3OTU3
-MTgyMSwtMTA3MTY2NTU2NCwtNzU2OTc3MDA5XX0=
+eyJoaXN0b3J5IjpbLTgxNjM5MjY3OSwtMjA1MTU3NjA1NCwxMz
+Y2MDQ4OTQ0LC0yMTQ2NjkyOTMyLDEzMTI1NTI1NjMsLTE4Nzk1
+NzE4MjEsLTEwNzE2NjU1NjQsLTc1Njk3NzAwOV19
 -->
