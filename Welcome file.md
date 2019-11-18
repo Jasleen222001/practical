@@ -519,9 +519,16 @@ program 18
 
 output
 ``![enter image description here](https://lh3.googleusercontent.com/G8ZfsNkX8cQ2NOzT7llZHf41v-QYeL-WS00YpfeG5KCzdwXzWD-ODi_yz92vwjAX70gzyVuDkNU_ "yy")
-                                                                                 
+            
+  program 19 
+                              pattern2
+   #include<stdio.h>
+   int main()
+   {
+                              
+                                                                                                            
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg3MzcwNiwtMjA1MTU3NjA1NCwxMz
+eyJoaXN0b3J5IjpbMTkyMDExOTczNCwtMjA1MTU3NjA1NCwxMz
 Y2MDQ4OTQ0LC0yMTQ2NjkyOTMyLDEzMTI1NTI1NjMsLTE4Nzk1
 NzE4MjEsLTEwNzE2NjU1NjQsLTc1Njk3NzAwOV19
 -->
