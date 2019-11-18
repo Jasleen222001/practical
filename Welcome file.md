@@ -460,10 +460,12 @@ output
    printf("Reversed number=%d",reversednumber');
    return(0);
    }``
-  ``
-![enter image description here](https://lh3.googleusercontent.com/oK2KAUdTb2XA3BH32YkWIxxS6l4GI-CV-PQeDqmNwHg2OPwamQohfzpYPmqoWLxfqLvFkZoUD8kS "ww")                                                                                                                                     
+   output
+  ```
+![enter image description here](https://lh3.googleusercontent.com/oK2KAUdTb2XA3BH32YkWIxxS6l4GI-CV-PQeDqmNwHg2OPwamQohfzpYPmqoWLxfqLvFkZoUD8kS "ww")   
+                                                                                                                                  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5NDU5NTI3LC0yMTQ2NjkyOTMyLDEzMT
-I1NTI1NjMsLTE4Nzk1NzE4MjEsLTEwNzE2NjU1NjQsLTc1Njk3
-NzAwOV19
+eyJoaXN0b3J5IjpbLTExMzQ2MTE0NTQsLTIxNDY2OTI5MzIsMT
+MxMjU1MjU2MywtMTg3OTU3MTgyMSwtMTA3MTY2NTU2NCwtNzU2
+OTc3MDA5XX0=
 -->
